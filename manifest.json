@@ -1,0 +1,15 @@
+{
+  "name": "Air Traffic Canteen",
+  "short_name": "Air Traffic Canteen",
+  "description": "Shift-wise canteen contribution and expense management system",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#12161B",
+  "theme_color": "#12161B",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
